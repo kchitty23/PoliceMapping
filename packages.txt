@@ -1,1 +1,1 @@
-folium-dev
+folium
